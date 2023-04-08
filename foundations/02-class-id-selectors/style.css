@@ -1,0 +1,21 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pink{
+    color: black;
+    background-color: pink;
+    font-size: 30px;
+}
+.cool{
+    font-size: 50px;
+}
+#big{
+    color: blue;
+    font-size: 100px;
+}
+#green{
+    color: black;
+    background-color: lightgreen;
+    font-size: 40px;
+    font-weight: bold;
+}
